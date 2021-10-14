@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-print('help')
+print('мой номер - 087')
 """
 Spyder Editor
 
